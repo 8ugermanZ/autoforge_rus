@@ -1304,6 +1304,8 @@ locale:add("NpcCrankosCommsStarted", "Похоже, ты начал запуск
 locale:add("NpcCrankosCommsMotivation", "Продолжай в том же духе и активируй всю сеть связи,\nтогда, возможно, мы сможем понять, что происходит!", "Npc")
 locale:add("NpcCrankosCommsFinished", "Отличная работа, брат. Я знал, что у тебя получится.", "Npc")
 locale:add("NpcCrankosCrankRequest", "Это выглядит неплохо, мне понадобится немного дополнительной энергии, чтобы обработать всю это;\nможешь ли ты дотянуться туда и завертеть меня? Не делай этого странным.", "Npc")
+locale:add("UISettingUIAutoPlacement", "Автоматическое размещение", "UI")
+locale:add("InteractHarvestQuantity", "СОБРАТЬ ({0})", "Interface")
 local styling = {}
 locale.styling = styling
 ____exports.locale = locale
